@@ -1,0 +1,157 @@
+﻿Class Insomnia Disorder
+Diagnostic-Criteria 780.52 (G47.00)
+A. a predominant complaint of dissatisfaction witli sleep quantity or quality, associated
+with one (or more) of the following symptoms:
+1. Difficulty initiating sleep. (In children, this may manifest as difficulty initiating sleep
+without caregiver intervention.)
+2. Difficulty maintaining sleep, characterized by frequent awakenings or problems returning
+to sleep after awakenings. (In children, this may manifest as difficulty returning
+to sleep without caregiver intervention.)
+3. Early-morning awakening with inability to return to sleep.
+B. The sleep disturbance causes clinically significant distress or impairment in social, occupational,
+educational, academic, behavioral, or other important areas of functioning.
+C. The sleep difficulty occurs at least 3 nights per week.
+D. The sleep difficulty is present for at least 3 months.
+E. The sleep difficulty occurs despite adequate opportunity for sleep.
+F. The insomnia is not better explained by and does not occur exclusively during the
+course of another sleep-wake disorder (e.g., narcolepsy, a breathing-related sleep disorder,
+a circadian rhythm sleep-wake disorder, a parasomnia).
+G. The insomnia is not attributable to the physiological effects of a substance (e.g., a drug
+of abuse, a medication).
+H. Coexisting mental disorders and medical conditions do not adequately explain the predominant
+complaint of insomnia.
+
+Diagnostic-Features
+The essential feature of insomnia disorder is dissatisfaction with sleep quantity or quality
+with complaints of difficulty initiating or maintaining sleep. The sleep complaints are accompanied
+by clinically significant distress or impairment in social, occupational, 
+Specify if:
+With non-sleep disorder mental comorbidity, including substance use disorders
+With other medical comorbidity
+Specify if:
+Episodic: Sy(nptoms last at least 1 month but less than 3 months.
+Note: Acute and short-term insomnia (i.e., symptoms lasting less than 3 months but othenA/ise
+meeting all criteria with regard to frequency, intensity, distress, and/or impairment)
+should be coded as an other specified insomnia disorder.
+Prevalence
+Population-based estimates indicate that about one-third of adults report insomnia symptoms,
+10%-15% experience associated daytime impairments, and 6% -10% have symptoms
+that meet criteria for insonmia disorder. Insomnia disorder is the most prevalent of all
+sleep disorders. ù;i primary care settings, approximately 10%-20% of individuals complain
+Development-and-Course
+The onset of insomnia symptoms can occur at any time during life, but the first episode is
+more common in young adulthood. Less frequently, insomnia begins in childhood or adolescence.
+In women, new-onset insomnia may occur during menopause and persist even
+after other symptoms (e.g., hot flashes) have resolved. Insomnia may have a late-life onset,
+which is often associated with the onset of other health-related conditions.
+
+Risk-and-Prognostic-Factors
+While the risk and prognostic factors discussed in this section increase vuhierability to insomnia,
+sleep disturbances are more likely to occur when predisposed individuals are exposed
+to precipitating events, such as major life events (e.g., illness, separation) or less
+severe but more chronic daily stress. Most individuals resume normal sleep patterns after
+the initial triggering event has disappeared, but others—perhaps those more vulnerable to
+insomnia—continue experiencing persistent sleep difficulties. Perpetuating factors such as
+poor sleep habits, irregular sleep scheduling, and the fear of not sleeping feed into the insomnia
+problem and may contribute to a vicious cycle that may induce persistent insomnia.
+Temperamental. Anxiety or worry-prone personality or cognitive styles, increased arousal
+predisposition, and tendency to repress emotions can increase vulnerability to insomnia.
+Environmental. Noise, light, uncomfortably high or low temperature, and high altitude
+may also increase vulnerability to insomnia.
+Genetic and physiological. Female gender and advancing age are associated with increased
+vulnerability to insomnia. Disrupted sleep and insomnia display a familial disposition.
+The prevalence of insomnia is higher among monozygotic twins relative to
+dizygotic twins; it is also higher in first-degree family members compared with the general
+population. The extent to which this link is inherited through a genetic predisposition,
+learned by observations of parental models, or established as a by-product of another psychopathology
+remains undetermined.
+Course modifiers. Deleterious course modifiers include poor sleep hygiene practices
+(e.g., excessive caffeine use, irregular sleep schedules).
+Gender-Reiated Diagnostic issues
+Insomnia is a more prevalent complaint among females than among males, with first onset
+often associated with the birth of a new child or with menopause. Despite higher prevalence
+among older females, polysomnographic studies suggest better preservation of
+sleep continuity and slow-wave sleep in older females than in older males.
+Diagnostic iVlaricers
+Polysomnography usually shows impairments of sleep continuity (e.g., increased sleep latency
+and time awake after sleep onset and decreased sleep efficiency [percentage of time
+in bed asleep] and may show increased stage 1 sleep and decreased stages 3 and 4 sleep.
+The severity of these sleep impairments does not always match the individual's clinical
+presentation or subjective complaint of poor sleep, as individuals with insomnia often underestimate
+sleep duration and overestimate wakefulness relative to polysomnography.
+Quantitative electroencephalographic analyses may indicate that individuals with insomnia
+have greater high-frequency electroencephalography power relative to good sleepers
+both around the sleep onset period and during non-rapid eye movement sleep, a feature
+suggestive of increased cortical arousal. Individuals with insomnia disorder may have a
+lower sleep propensity and typically do not show increased daytime sleepiness on objective
+sleep laboratory measures compared with individuals without sleep disorders.
+Other laboratory measures show evidence, although not consistently, of increased
+arousal and a generalized activation of the hypothalamic-pituitary-adrenal axis (e.g., increased
+cortisol levels, heart rate variability, reactivity to stress, metabolic rate). In general,
+findings are consistent with the hypothesis that increased physiological and cognitive
+arousal plays a significant role in insomnia disorder.
+Individuals with insomnia disorder may appear either fatigued or haggard or, conversely,
+overaroused and "wired." However, there are no consistent or characteristic
+abnormalities on physical examination. There may be an increased incidence of stress-
+related psychophysiological symptoms (e.g., tension headache, muscle tension or pain,
+gastrointestinal symptoms).
+Functional-Consequences-of Insomnia-Disorder
+Interpersonal, social, and occupational problems may develop as a result of insomnia or
+excessive concern with sleep, increased daytime irritability, and poor concentration. Decreased
+attention and concentration are common and may be related to higher rates of accidents
+observed in insomnia. Persistent insomnia is also associated with long-term
+consequences, including increased risks of major depressive disorder, hypertension, and
+myocardial infarction; increased absenteeism and reduced productivity at work; reduced
+quality of life; and increased economic burden.
+Differential-Diagnosis
+Normal sleep variations. Normal sleep duration varies considerably across individuals.
+Some individuals who require little sleep ("short sleepers") may be concerned about their
+sleep duration. Short sleepers differ from individuals with insomnia disorder by the lack of
+difficulty falling or staying asleep and by the absence of characteristic daytime symptoms
+(e.g., fatigue, concentration problems, irritability). However, some short sleepers may desire
+or attempt to sleep for a longer period of time and, by prolonging time in bed, may create an
+insomnia-like sleep pattern. Clinical insomnia also should be distinguished from normal,
+age-related sleep changes. Insomnia must also be distinguished from sleep deprivation due
+to inadequate opportunity or circumstance for sleep resulting, for example, from an emergency
+or from professional or family obligations forcing the individual to stay awake.
+Situational/acute insomnia. Situational/acute insomnia is a condition lasting a few days
+to a few weeks, often associated with life events or with changes in sleep schedules. These
+acute or short-term insomnia symptoms may also produce significant distress and interfere
+with social, personal, and occupational functioning. When such symptoms are frequent
+enough and meet all other criteria except for the 3-month duration, a diagnosis of
+other specified insomnia disorder or unspecified insomnia disorder is made.
+Delayed sleep phase and shift work types of circadian rhythm sleep-wake disorder.
+Individuals with the delayed sleep phase type of circadian rhythm sleep-wake disorder report
+sleep-onset insomnia only when they try to sleep at socially normal times, but they do
+not report difficulty falling asleep or staying asleep when their bed and rising times are
+delayed and coincide with their endogenous circadian rhythm. Shift work type differs from
+insomnia disorder by the history of recent shift work.
+Restless legs syndrome. Restless legs syndrome often produces difficulties initiating
+and maintaining sleep. However, an urge to move the legs and any accompanying unpleasant
+leg sensations are features that differentiate this disorder from insomnia disorder.
+Breathing-related sleep disorders. Most individuals with a breathing-related sleep disorder
+have a history of loud snoring, breathing pauses during sleep, and excessive daytime
+sleepiness. Nonetheless, as many as 50% of individuals with sleep apnea may also report
+insomnia symptoms, a feature that is more common among females and older adults.
+Narcolepsy. Narcolepsy may cause insomnia complaints but is distinguished from insomnia
+disorder by the predominance of symptoms of excessive daytime sleepiness, cataplexy,
+sleep paralysis, and sleep-related hallucinations.
+Comorbidity
+Insomnia is a common comorbidity of many medical conditions, including diabetes, coronary
+heart disease, chronic obstructive pulmonary disease, arthritis, fibromyalgia, and
+other chronic pain conditions. The risk relationship appears to be bidirectional: insomnia
+increases the risk of medical conditions, and medical problems increase the risk of insomnia.
+The direction of the relationship is not always clear and may change over time; for this
+reason, comorbid insomnia is the preferred terminology in the presence of coexisting insomnia
+with another medical condition (or mental disorder).
+Relationship-to-Other-Classifications
+Sleep Disorders
+There are several distinct insomnia phenotypes relating to the perceived source of the insomnia
+that are recognized by the International Classification of Sleep Disorders, 2nd Edition
+(ICSD-2). These include psychophysiological insomnia, idiopathic insomnia, sleep-state misperception,
+and inadequate sleep hygiene. Despite their clinical appeal and heuristic value, there is
+limited evidence to support these distinct phenotypes.
+
+
+
+
