@@ -1,0 +1,83 @@
+@charset "UTF-8";
+a:hover {
+	font-size: 9pt;	color: #FF6600;
+}
+a {
+	font-size: 9pt;	text-decoration: none;	color: #b3b4b7;
+	noline:expression(this.onfocus=this.blur);
+}
+table.bdy{
+	margin-top:100px;
+}
+
+img{max-width:160px; max-height:160px; 
+clear: both;  display: block;  margin:auto; /*图片居中显示  */}
+td.prdnm{
+	font-family:"微软雅黑 ";
+	font-size: 20pt; color: #000000;
+	height: 40px;
+	text-align:left;
+	padding:5px;
+}
+table.brief{
+	border-collapse: separate;
+    border-spacing: 2px
+}
+td.actor{
+	font-family:"黑体";
+	font-size: 13pt; color: #3b3b3b;
+	height: 20px;
+	padding-left:10px
+}
+td.place{
+	font-family:"宋体";
+	font-size: 6pt; color: #aaaaaa;
+	height: 10px;
+	text-align:center;
+}
+
+.price{
+	font-family:"宋体";
+	font-size: 11pt; color: #aaaaaa;
+	text-align:center;
+	text-decoration:line-through;
+}
+.sale{
+	font-family:宋体; color:red; font-size: 18pt;
+	height:60px
+	text-align:center;
+	padding:10px
+}
+.cnt{
+	width:90px;
+	height:20px
+}
+td.buyOCart{
+	height:80px;
+}
+#intoCart{
+	width:90px;
+ 	height:30px;
+ 	font-family:"黑体";
+ 	font-size: 12pt;color: #FFFFFF;	
+	background-color: #FF0000;cursor: hand;
+	
+}
+#buyNow{
+	width:90px;
+ 	height:30px;
+ 	font-family:"黑体";	font-size: 12pt;color: #FFFFFF;	
+	background-color: #ffaa11;cursor: hand;
+}
+hr{
+	
+	 border: none;width:800px;height:2px;background:#888888;
+	
+	 margin-left: auto;margin-right: auto;
+}
+div.prdContent{
+	margin-top:10px;
+	margin-left:150px;
+	margin-right: 150px;
+	line-height:30px;
+}

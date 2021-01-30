@@ -1,0 +1,8 @@
+@charset "UTF-8";
+div#welcome{color:#afafaf}
+img{max-width:150px; max-height:150px; 
+clear: both;  display: block;  margin:auto; /*图片居中显示  */}
+table.body{width:98%;table-layout:fixed;
+border-collapse: separate;border-spacing: 30px;/*表格行间距设置  */}
+td.brief{width:20%;}
+td.abstract{width:45%; word-wrap:break-word}

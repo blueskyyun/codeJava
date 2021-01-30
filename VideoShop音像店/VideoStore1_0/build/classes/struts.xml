@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">
+<struts>
+
+ <constant name="struts.enable.DynamicMethodInvocation" value="true" />
+ 
+	<package name="myPackage" extends="struts-default">
+	<global-allowed-methods>checklogin,checkSellerlogin,checkRegister,add</global-allowed-methods>
+		<!-- 定义action -->
+		<action name="mainAction" class="com.videoStore.biz.mainPageAction">
+			<!-- 添加action成功的映射页面 -->
+			<result name="success">productpage.jsp</result>
+		</action>
+		<action name="loginAction" class="com.videoStore.biz.loginllAction">
+			<!-- 添加action成功的映射页面 -->
+			<result name="update">productpage.jsp</result>
+			<result name="faillogin">login/login.jsp</result>
+			<result name="add">login/login.jsp</result>
+			<result name="failreg">login/register.jsp</result>
+			<result name="login">seller/main.jsp</result>
+			<result name="failsellerlogin">login/sellerlogin.jsp</result>
+		</action>
+		<action name="mmxiangqingAction" class="com.videoStore.biz.xiangqingAction">
+			<result name="success">customer/xiangqing.jsp</result>
+		</action>
+		
+		<action name="mmOrderAction" class="com.videoStore.biz.OrderAction">
+			<result name="add">customer/success.jsp</result>
+			<result name="failadd">customer/fail.jsp</result>
+		</action>
+		
+	</package>
+</struts>
